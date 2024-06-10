@@ -3,7 +3,7 @@ I’m Kayla, a Computer Science student with a joy for problem solving. I’m in
 - 🌱 Currently working on a habit tracking mobile application that focuses on the "bigger picture".
 - 🤔 Looking for a summer software development internship to enhance my skills in a workplace setting.
 - 📫 How to reach me: kayla.moorcroft@icloud.com or [Linkedin.](https://www.linkedin.com/in/kaylamoorcroft/)
-- ⚡ You can see some past projects I made with Unity and C# on [Unity Play.](https://play.unity.com/u/KaylaM14)
+- ⚡ You can see some of my past projects on my [portfolio.](https://kaylamoorcroft.github.io/)
 
 <!---
 kaylamoorcroft/kaylamoorcroft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
